@@ -2,4 +2,4 @@
 def add_task(task): print('Task added:', task)
 def add_task(task): print('Task added:', task)
 def view_tasks(): print('Viewing tasks')
-def bug(): print(x)
+def bug(): print('fixed')
